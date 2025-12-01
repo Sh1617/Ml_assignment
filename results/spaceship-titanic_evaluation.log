@@ -1,6 +1,0 @@
-[2025-11-28 13:44:43] 🚀 Starting spaceship-titanic
-[2025-11-28 13:44:43] Creating synthetic data demo for spaceship-titanic
-[2025-11-28 13:44:43] 📊 Data: train=(8693, 9), test=(4277, 8), target=Transported
-[2025-11-28 13:44:43] ✅ Features: 6
-[2025-11-28 13:44:44] 🎉 SUCCESS! results\spaceship-titanic_submission.csv
-[2025-11-28 13:44:44] ✅ 3-seed LightGBM ensemble complete
