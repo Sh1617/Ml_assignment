@@ -1,0 +1,7 @@
+{
+    "competition_id": "siim-isic-melanoma-classification",
+    "score": 0.666,
+    "status": "Success",
+    "any_medal": true,
+    "submission_file": "C:\\MLE\\results\\siim-isic-melanoma-classification\\seed_42\\submission.csv"
+}
